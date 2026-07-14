@@ -19,4 +19,8 @@ An advanced, interactive web-based ticketing system designed to process and mana
 ## 📸 Interface Preview
 Preview of the secure validation forms and the automated window stream print output:
 
-![Ticketing System Interface](screenshot1.png)(screenshot2.png)
+### 🎫 Booking Form & Ticket List
+![Ticketing System Interface](screenshot1.png)
+
+### 🖨️ Generated Print Template
+![Automated Print Output](screenshot2.png)
