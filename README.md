@@ -13,3 +13,10 @@ An advanced, interactive web-based ticketing system designed to process and mana
 - **Data Formats:** JSON (JavaScript Object Notation)
 - **Structure & Layout:** HTML5 (utilizing grid/flexbox fieldset layouts) & Custom CSS3 with custom badges
 - **Core Concepts:** Event listeners (`DOMContentLoaded`, `click`), Regular Expressions (Regex), window streams, and state management.
+
+---
+
+## 📸 Interface Preview
+Preview of the secure validation forms and the automated window stream print output:
+
+![Ticketing System Interface](screenshot.png)
